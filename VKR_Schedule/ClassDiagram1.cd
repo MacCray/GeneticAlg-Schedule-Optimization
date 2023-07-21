@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="VKR_Schedule.GeneticAlgorithm.GenAlg">
+    <Position X="10.5" Y="0.75" Width="2.75" />
+    <Members>
+      <Method Name="GenAlg" Hidden="true" />
+      <Method Name="GetFittest" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAEIAAAAACABIAAAAGACAAAAAAAAIIAAAAAAAACAQAE=</HashCode>
+      <FileName>GeneticAlgorithm\GenAlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR_Schedule.GeneticAlgorithm.Schedule">
+    <Position X="7.5" Y="0.75" Width="2.75" />
+    <Members>
+      <Method Name="Schedule" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAEAAAAAABAAAAAAAAAAACACEAAAAAAAAAA=</HashCode>
+      <FileName>GeneticAlgorithm\Schedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR_Schedule.GeneticAlgorithm.ScheduleDayInfo">
+    <Position X="0.5" Y="0.75" Width="2" />
+    <Members>
+      <Method Name="Clone" Hidden="true" />
+      <Method Name="Equals" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAEIAAAAAAAgJAAAABAAEAAAAAAAAQAAAAAABA=</HashCode>
+      <FileName>GeneticAlgorithm\ScheduleDayInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VKR_Schedule.GeneticAlgorithm.StudentGroup">
+    <Position X="2.75" Y="0.75" Width="4" />
+    <Members>
+      <Method Name="Shuffle" Hidden="true" />
+      <Method Name="StudentGroup" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AQAAAABUAAAAAAAIAAgABAAAAEAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>GeneticAlgorithm\StudentGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
